@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código SACMAIS...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Fazendo download do código Multizap...${GRAY_LIGHT}"
   printf "\n\n"
 
 
@@ -73,7 +73,7 @@ EOF
 #######################################
 deletar_tudo() {
   print_banner
-  printf "${WHITE} 💻 Vamos deletar o SACMAIS...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos deletar o Multizap...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -119,7 +119,7 @@ EOF
 #######################################
 configurar_bloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos bloquear o SACMAIS...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos bloquear o Multizap...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -146,7 +146,7 @@ EOF
 #######################################
 configurar_desbloqueio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Desbloquear o SACMAIS...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Desbloquear o Multizap...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
@@ -172,7 +172,7 @@ EOF
 #######################################
 configurar_dominio() {
   print_banner
-  printf "${WHITE} 💻 Vamos Alterar os Dominios do SACMAIS...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Vamos Alterar os Dominios do Multizap...${GRAY_LIGHT}"
   printf "\n\n"
 
 sleep 2
